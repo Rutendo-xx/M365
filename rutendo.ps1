@@ -13,7 +13,7 @@
 
 .NOTES
     Author: Rutendo Mazvi  
-    Purpose: M365 Tenant ManagementTraining / GitHub portfolio script  
+    Purpose: M365 Tenant Management  
 #>
 
 # ============================================
