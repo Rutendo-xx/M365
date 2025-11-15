@@ -12,9 +12,8 @@
     • Skips devices already in the target group  
 
 .NOTES
-    Author: <Your Name>  
-    Tenant: <Your Test Tenant Name>  
-    Purpose: Training / GitHub portfolio script  
+    Author: Rutendo Mazvi  
+    Purpose: M365 Tenant ManagementTraining / GitHub portfolio script  
 #>
 
 # ============================================
