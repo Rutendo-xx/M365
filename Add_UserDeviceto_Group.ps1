@@ -1,6 +1,6 @@
 <#  
 .SYNOPSIS
-    Sync devices into a target Entra ID device group based on the users from a source user group.
+    Assign devices into a target Entra ID device group based on the users from a source user group.
 
 .DESCRIPTION
     This script:
